@@ -1,0 +1,1 @@
+Repositório de projetos práticos da minha jornada em DevOps, seguindo o roadmap.sh.
