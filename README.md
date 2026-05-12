@@ -36,7 +36,7 @@ Each project includes:
 | Project | Roadmap.sh Project | Focus | Technologies | Status |
 |---|---|---|---|---|
 | [Server Performance Stats](./Beginner/server-stats) | [roadmap.sh/server-stats](https://roadmap.sh/projects/server-stats) | Linux server performance analysis | Bash, Linux CLI, CPU, memory, disk, processes | Completed |
-
+| [Log Archive Tool](./Beginner/log-archive-tool) | [roadmap.sh/log-archive-tool](https://roadmap.sh/projects/log-archive-tool) | Log archiving and compression | Bash, Linux CLI, find, tar, date, mkdir | Completed |
 ## Current focus
 
 My current focus is improving practical skills in:
