@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # =============================================================================
 # server-stats.sh — Análise de Performance do Servidor
-# Autor: DevOps Student
+# Autor: Diêgo D'mitry
 # Descrição: Coleta e exibe estatísticas básicas de performance do servidor.
 # Uso: bash server-stats.sh
 # =============================================================================
