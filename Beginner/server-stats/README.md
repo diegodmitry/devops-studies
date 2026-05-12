@@ -16,3 +16,5 @@ You are required to write a script server-stats.sh that can analyse basic server
 Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
 
 URL: https://github.com/diegodmitry/devops-studies/blob/main/Beginner/server-stats/server-stats.sh
+
+ROADMAP: https://roadmap.sh/projects/server-stats
