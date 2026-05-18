@@ -37,6 +37,8 @@ Each project includes:
 |---|---|---|---|---|
 | [Server Performance Stats](./Beginner/server-stats) | [roadmap.sh/server-stats](https://roadmap.sh/projects/server-stats) | Linux server performance analysis | Bash, Linux CLI, CPU, memory, disk, processes | Completed |
 | [Log Archive Tool](./Beginner/log-archive-tool) | [roadmap.sh/log-archive-tool](https://roadmap.sh/projects/log-archive-tool) | Log archiving and compression | Bash, Linux CLI, find, tar, date, mkdir | Completed |
+| [Nginx Log Analyser](./Beginner/nginx-log-analyser) | [roadmap.sh/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser) | Nginx log analysis and troubleshooting | Bash, Linux CLI, awk, sort, uniq, head | Completed |
+
 ## Current focus
 
 My current focus is improving practical skills in:
