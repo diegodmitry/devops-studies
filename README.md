@@ -39,6 +39,7 @@ Each project includes:
 | [Log Archive Tool](./Beginner/log-archive-tool) | [roadmap.sh/log-archive-tool](https://roadmap.sh/projects/log-archive-tool) | Log archiving and compression | Bash, Linux CLI, find, tar, date, mkdir | Completed |
 | [Nginx Log Analyser](./Beginner/nginx-log-analyser) | [roadmap.sh/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser) | Nginx log analysis and troubleshooting | Bash, Linux CLI, awk, sort, uniq, head | Completed |
 | [GitHub Pages Deployment](https://github.com/diegodmitry/gh-deployment-workflow) | [roadmap.sh/github-pages-deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) | Static website deployment with GitHub Pages | Git, GitHub, Markdown, HTML, CSS | Completed |
+| [SSH Remote Server Setup](./Beginner/remote-server-setup) | [roadmap.sh/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup) | Remote server setup and SSH security | Linux, SSH, Fail2Ban, cloud provider | Completed |
 
 ## Current focus
 
