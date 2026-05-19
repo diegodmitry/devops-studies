@@ -40,6 +40,7 @@ Each project includes:
 | [Nginx Log Analyser](./Beginner/nginx-log-analyser) | [roadmap.sh/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser) | Nginx log analysis and troubleshooting | Bash, Linux CLI, awk, sort, uniq, head | Completed |
 | [GitHub Pages Deployment](https://github.com/diegodmitry/gh-deployment-workflow) | [roadmap.sh/github-pages-deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) | Static website deployment with GitHub Pages | Git, GitHub, Markdown, HTML, CSS | Completed |
 | [SSH Remote Server Setup](./Beginner/remote-server-setup) | [roadmap.sh/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup) | Remote server setup and SSH security | Linux, SSH, Fail2Ban, cloud provider | Completed |
+| [Static Site Server](./Beginner/static-server-side) | [roadmap.sh/static-site-server](https://roadmap.sh/projects/static-site-server) | Static site deployment with Nginx and rsync | Linux, SSH, Nginx, rsync | Completed |
 
 ## Current focus
 
