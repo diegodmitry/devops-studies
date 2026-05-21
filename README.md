@@ -41,6 +41,8 @@ Each project includes:
 | [GitHub Pages Deployment](https://github.com/diegodmitry/gh-deployment-workflow) | [roadmap.sh/github-pages-deployment](https://roadmap.sh/projects/github-actions-deployment-workflow) | Static website deployment with GitHub Pages | Git, GitHub, Markdown, HTML, CSS | Completed |
 | [SSH Remote Server Setup](./Beginner/remote-server-setup) | [roadmap.sh/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup) | Remote server setup and SSH security | Linux, SSH, Fail2Ban, cloud provider | Completed |
 | [Static Site Server](./Beginner/static-server-side) | [roadmap.sh/static-site-server](https://roadmap.sh/projects/static-site-server) | Static site deployment with Nginx and rsync | Linux, SSH, Nginx, rsync | Completed |
+| [Basic Dockerfile](./Beginner/basic-dockerfile) | [roadmap.sh/basic-dockerfile](https://roadmap.sh/projects/basic-dockerfile) | Basic Docker image creation and containerization | Docker, Alpine Linux | Completed |
+
 
 ## Current focus
 
